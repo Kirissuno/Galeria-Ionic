@@ -1,0 +1,14 @@
+ion-content{
+    --background: #fff url('https://www.elsetge.cat/myimg/f/4-43344_wallpaper-anime-scenery-wallpaper-phone.png') no-repeat center center / cover;
+}
+
+ion-fab-button{
+    --background: white;
+    --color: black;
+    --background-hover: gray;
+}
+
+.img{
+    border: 1px solid rgba(0, 0, 0, 0.301);
+    border-radius: 20%;
+}
